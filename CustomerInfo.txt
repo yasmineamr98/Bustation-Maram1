@@ -1,0 +1,2 @@
+regular,Maram Hesham,5225401,12/02/1998,egyptian,female
+vip,Yasmine Amr,1234,11/03/2004,egyptian,male

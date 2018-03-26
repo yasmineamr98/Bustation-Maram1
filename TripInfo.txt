@@ -1,0 +1,3 @@
+204280,1234,12/4/2018 12:00:00,12/4/2018 15:00:00,Cairo,Alexandria,0,Economy
+260120,1235,13/4/2018 13:00:00,13/4/2018 14:00:00,Alexandria,Fayoum,1,Economy
+365520,4265,17/4/2018 10:00:00,17/4/2018 14:00:00,Alexandria,Sharm Elsheikh,3,Economy
